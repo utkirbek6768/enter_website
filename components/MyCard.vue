@@ -1,11 +1,19 @@
 <template>
   <div class="card__wrapper">
     <div class="card__img">
-      <img src="@/public/cardImg.png" alt="" />
+      <img
+        src="https://images.unsplash.com/photo-1544465544-1b71aee9dfa3?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHBob3RvfGVufDB8fDB8fHww"
+        alt=""
+      />
     </div>
     <div class="cardBody__control">
       <div class="iconTitle__control">
-        <div class="cardIcon"><img src="@/public/google.png" alt="" /></div>
+        <div class="cardIcon">
+          <img
+            src="https://images.unsplash.com/photo-1544465544-1b71aee9dfa3?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHBob3RvfGVufDB8fDB8fHww"
+            alt=""
+          />
+        </div>
         <span class="iconTitle">Google</span>
       </div>
       <div class="cardTitle">

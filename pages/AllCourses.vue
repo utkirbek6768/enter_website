@@ -160,7 +160,10 @@
             задач.
           </div>
           <div class="studyPeriod">Study period: <span> 6 месяцов</span></div>
-          <img src="/_nuxt/public/phyton-logo.png" class="coursItem-img" />
+          <img
+            src="https://images.unsplash.com/photo-1544465544-1b71aee9dfa3?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHBob3RvfGVufDB8fDB8fHww"
+            class="coursItem-img"
+          />
         </div>
         <div
           class="coursItem h-[520px] p-[40px] relative"
@@ -207,7 +210,10 @@
             задач.
           </div>
           <div class="studyPeriod">Study period: <span> 6 месяцов</span></div>
-          <img src="/_nuxt/public/phyton-logo.png" class="coursItem-img" />
+          <img
+            src="https://images.unsplash.com/photo-1544465544-1b71aee9dfa3?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHBob3RvfGVufDB8fDB8fHww"
+            class="coursItem-img"
+          />
         </div>
         <div
           class="coursItem h-[520px] p-[40px] relative"
@@ -254,7 +260,10 @@
             задач.
           </div>
           <div class="studyPeriod">Study period: <span> 6 месяцов</span></div>
-          <img src="/_nuxt/public/phyton-logo.png" class="coursItem-img" />
+          <img
+            src="https://images.unsplash.com/photo-1544465544-1b71aee9dfa3?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHBob3RvfGVufDB8fDB8fHww"
+            class="coursItem-img"
+          />
         </div>
         <div
           class="coursItem h-[520px] p-[40px] relative"
@@ -301,7 +310,10 @@
             задач.
           </div>
           <div class="studyPeriod">Study period: <span> 6 месяцов</span></div>
-          <img src="/_nuxt/public/phyton-logo.png" class="coursItem-img" />
+          <img
+            src="https://images.unsplash.com/photo-1544465544-1b71aee9dfa3?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHBob3RvfGVufDB8fDB8fHww"
+            class="coursItem-img"
+          />
         </div>
         <div
           class="coursItem h-[520px] p-[40px] relative"
