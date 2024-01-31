@@ -3,7 +3,7 @@
     <div class="slider-control size-control relative flex">
       <Swiper
         class="gap-8 sm:gap-8"
-        :modules="[SwiperAutoplay, EffectFade]"
+        :modules="[SwiperAutoplay]"
         effect="fade"
         :breakpoints="{
           0: { slidesPerView: 1 },
@@ -96,7 +96,7 @@
 </template>
 
 <script setup>
-import { EffectFade } from "swiper";
+// import { EffectFade } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/vue";
 import "swiper/swiper-bundle.css";
 import "swiper/css/effect-fade";
